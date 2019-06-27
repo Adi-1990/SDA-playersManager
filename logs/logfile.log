@@ -1,0 +1,215 @@
+INFO  | 2019-06-23 12:45:55 | [main] playersManager.App (App.java:24) - main(): IN:
+INFO  | 2019-06-23 12:45:55 | [main] playersManager.App (App.java:28) - main(): OUT:
+INFO  | 2019-06-23 12:47:55 | [main] playersManager.App (App.java:25) - main(): IN:
+INFO  | 2019-06-23 12:47:55 | [main] playersManager.App (App.java:31) - main(): OUT:
+DEBUG | 2019-06-23 12:49:28 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 12:49:28 | [main] playersManager.App (App.java:31) - main(): OUT:
+DEBUG | 2019-06-23 12:52:49 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 12:52:49 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 12:52:49 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 12:52:49 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 12:53:21 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 12:53:21 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 12:53:21 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 12:53:21 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 12:59:45 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 12:59:45 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 12:59:45 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 12:59:45 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 13:02:55 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 13:02:55 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 13:02:57 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:02:57 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 13:14:00 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 13:14:00 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 13:14:01 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:14:01 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 13:14:26 | [main] playersManager.App (App.java:25) - main(): IN:
+DEBUG | 2019-06-23 13:14:26 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+DEBUG | 2019-06-23 13:14:27 | [main] playersManager.App (App.java:51) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:14:27 | [main] playersManager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 13:27:01 | [main] playersManager.App (App.java:27) - main(): IN:
+DEBUG | 2019-06-23 13:27:01 | [main] playersManager.App (App.java:43) - parseAllPlayers() : IN:
+INFO  | 2019-06-23 13:27:03 | [main] playersManager.App (App.java:57) - Player: 1,player_1,null
+INFO  | 2019-06-23 13:27:03 | [main] playersManager.App (App.java:57) - Player: 2,player_2,null
+INFO  | 2019-06-23 13:27:03 | [main] playersManager.App (App.java:57) - Player: 3,player_3,null
+DEBUG | 2019-06-23 13:27:03 | [main] playersManager.App (App.java:64) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:27:03 | [main] playersManager.App (App.java:36) - main(): OUT:
+DEBUG | 2019-06-23 13:27:56 | [main] playersManager.App (App.java:27) - main(): IN:
+DEBUG | 2019-06-23 13:27:56 | [main] playersManager.App (App.java:43) - parseAllPlayers() : IN:
+INFO  | 2019-06-23 13:27:57 | [main] playersManager.App (App.java:57) - Player: 1 , player_1 , null , null , null
+INFO  | 2019-06-23 13:27:57 | [main] playersManager.App (App.java:57) - Player: 2 , player_2 , null , null , null
+INFO  | 2019-06-23 13:27:57 | [main] playersManager.App (App.java:57) - Player: 3 , player_3 , null , null , null
+DEBUG | 2019-06-23 13:27:57 | [main] playersManager.App (App.java:64) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:27:57 | [main] playersManager.App (App.java:36) - main(): OUT:
+DEBUG | 2019-06-23 13:30:14 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 13:30:14 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+ERROR | 2019-06-23 13:30:35 | [main] playersManager.App (App.java:59) - Exception while parsing players: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_201]
+	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_201]
+	at com.SDA.playersManager.App.parseAllPlayers(App.java:44) [classes/:?]
+	at com.SDA.playersManager.App.main(App.java:32) [classes/:?]
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_201]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_201]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_201]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_201]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_201]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_201]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+DEBUG | 2019-06-23 13:30:35 | [main] playersManager.App (App.java:62) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:30:35 | [main] playersManager.App (App.java:35) - main(): OUT:
+DEBUG | 2019-06-23 13:30:51 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 13:30:51 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+ERROR | 2019-06-23 13:31:12 | [main] playersManager.App (App.java:59) - Exception while parsing players: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_201]
+	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_201]
+	at com.SDA.playersManager.App.parseAllPlayers(App.java:44) [classes/:?]
+	at com.SDA.playersManager.App.main(App.java:32) [classes/:?]
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_201]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_201]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_201]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_201]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_201]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_201]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+DEBUG | 2019-06-23 13:31:12 | [main] playersManager.App (App.java:62) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:31:12 | [main] playersManager.App (App.java:35) - main(): OUT:
+DEBUG | 2019-06-23 13:34:01 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 13:34:01 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+ERROR | 2019-06-23 13:34:22 | [main] playersManager.App (App.java:58) - Exception while parsing players: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_201]
+	at java.sql.DriverManager.getConnection(DriverManager.java:247) ~[?:1.8.0_201]
+	at com.SDA.playersManager.App.parseAllPlayers(App.java:44) [classes/:?]
+	at com.SDA.playersManager.App.main(App.java:32) [classes/:?]
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_201]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_201]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:1.8.0_201]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_201]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_201]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_201]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_201]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_201]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:152) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	... 7 more
+DEBUG | 2019-06-23 13:34:22 | [main] playersManager.App (App.java:69) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:34:22 | [main] playersManager.App (App.java:35) - main(): OUT:
+DEBUG | 2019-06-23 13:35:06 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 13:35:06 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+INFO  | 2019-06-23 13:35:08 | [main] playersManager.App (App.java:55) - Player: 2 , player_2 , null , null , null
+INFO  | 2019-06-23 13:35:08 | [main] playersManager.App (App.java:55) - Player: 3 , player_3 , null , null , null
+DEBUG | 2019-06-23 13:35:08 | [main] playersManager.App (App.java:69) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:35:08 | [main] playersManager.App (App.java:35) - main(): OUT:
+DEBUG | 2019-06-23 13:36:27 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 13:36:27 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+INFO  | 2019-06-23 13:36:28 | [main] playersManager.App (App.java:57) - Player: 2 , player_2 , null , null , null
+INFO  | 2019-06-23 13:36:28 | [main] playersManager.App (App.java:57) - Player: 3 , player_3 , null , null , null
+DEBUG | 2019-06-23 13:36:28 | [main] playersManager.App (App.java:72) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 13:36:28 | [main] playersManager.App (App.java:35) - main(): OUT:
+DEBUG | 2019-06-23 14:32:26 | [main] playersManager.App (App.java:26) - main(): IN:
+DEBUG | 2019-06-23 14:32:26 | [main] playersManager.App (App.java:41) - parseAllPlayers() : IN:
+INFO  | 2019-06-23 14:32:27 | [main] playersManager.App (App.java:57) - Player: 2 , player_2 , null , null , null
+INFO  | 2019-06-23 14:32:27 | [main] playersManager.App (App.java:57) - Player: 3 , player_3 , null , null , null
+DEBUG | 2019-06-23 14:32:27 | [main] playersManager.App (App.java:72) - parseAllPlayers() : OUT:
+DEBUG | 2019-06-23 14:32:27 | [main] playersManager.App (App.java:35) - main(): OUT:
